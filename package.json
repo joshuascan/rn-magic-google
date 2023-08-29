@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@magic-ext/react-native-expo-oauth": "^14.3.1",
+    "@magic-sdk/react-native-expo": "^20.3.1",
     "expo": "~49.0.8",
+    "expo-linking": "^5.0.2",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.4"
+    "react-native": "0.72.4",
+    "react-native-elements": "^3.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
